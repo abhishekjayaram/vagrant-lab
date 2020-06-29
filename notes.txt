@@ -1,0 +1,16 @@
+vagrant init box-name
+ex:
+vagrant init ubuntu/xenial64
+
+This will generate a Vagrantfile
+
+now edit this Vagrantfile according to your requirements
+
+vagrant up
+to start the vm
+
+vagrant halt
+to stop the vm
+
+vagrant ssh
+to connect to linux vms
