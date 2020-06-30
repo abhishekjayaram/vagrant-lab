@@ -14,3 +14,9 @@ to stop the vm
 
 vagrant ssh
 to connect to linux vms
+
+vagrant destroy, vagrant up
+to reset the vm
+
+Shared Folders
+by default, one shared directoey is created
